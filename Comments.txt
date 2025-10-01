@@ -1,3 +1,6 @@
 Hi! I thought we could use this as a place to put our updates / problems or any comment that we have
 
 Maybe everytime we worked on the project we could put "Our name + date on which we worked + what we did / at what point we stopped" so that when someone else begins working on the project we don't loose time trying to understand what was done previously!
+
+Mila (01.10.2025)
+I successfully imported the data, with a short coding command. My next step would be to do the denoizing part, and potentially also a bit of analysis of the sample metadata.
