@@ -4,3 +4,6 @@ Maybe everytime we worked on the project we could put "Our name + date on which 
 
 Mila (01.10.2025)
 I successfully imported the data, with a short coding command. My next step would be to do the denoizing part, and potentially also a bit of analysis of the sample metadata.
+
+Dario (06.10.2025)
+Upload of my notebook
