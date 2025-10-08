@@ -13,3 +13,8 @@ Comments for our next meeting:
 Answer the basic questions that are asked in our FunGut guideline + the general group project guideline.
 It could be interesting, once we know the taxa, to look if this is coherent with current literature with what their diet / health issues etc are. See what factors seem to be the strongest -> health issues over diet or I don't know
 May be look if these taxa are indicator of good health or not, and even maybe try to find literature on how these subject could enhance their gut health
+
+Mila (08.10.25)
+For next week:
+Ask Milo if we have to trim the primers.
+Compare taxonomic results / decide wich denoizing technique is best
