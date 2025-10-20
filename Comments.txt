@@ -25,4 +25,4 @@ Dario (20.10.25)
 Points to look at:
 - !qiime cutadapt trim-single
 - !qiime feature-classifier extract-reads (which trunc len, same as for denoising?)
-- Classifier: ??? 
+- Classifier: ???
