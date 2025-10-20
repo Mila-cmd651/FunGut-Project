@@ -21,6 +21,8 @@ Compare taxonomic results / decide wich denoizing technique is best
 For the reference database construction: do we know what primer was used, so our classifier is even more precise to our data?
 Ask Milo for my classifier which is not being built (everything works for the database download, filtering, dereplication)
 
-Dario (14.10.25)
-Notes for Midterm report:
-- Potential goal to mention, train our own classifier on euler (or is that expect of us to do?)?
+Dario (20.10.25)
+Points to look at:
+- !qiime cutadapt trim-single
+- !qiime feature-classifier extract-reads (which trunc len, same as for denoising?)
+- Classifier: ??? 
