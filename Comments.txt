@@ -16,11 +16,15 @@ May be look if these taxa are indicator of good health or not, and even maybe tr
 
 Mila (08.10.25)
 For next week:
-Ask Milo if we have to trim the primers.
+Ask Milo if we have to trim the primers?
 Compare taxonomic results / decide wich denoizing technique is best
 For the reference database construction: do we know what primer was used, so our classifier is even more precise to our data?
-Ask Milo for my classifier which is not being built (everything works for the database download, filtering, dereplication)
 
 Dario (14.10.25)
 Notes for Midterm report:
 - Potential goal to mention, train our own classifier on euler (or is that expect of us to do?)?
+
+Questions to Milo:
+1. Do we have to trim the primers in the denoizing step?
+2. What are the primers to use in the taxonomy classifier??? Same thing as 1 actually
+3. Is the dereplicating step necessary for UNITE when creating template database for the classifier to train on
