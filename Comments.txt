@@ -28,3 +28,11 @@ Questions to Milo:
 1. Do we have to trim the primers in the denoizing step?
 2. What are the primers to use in the taxonomy classifier??? Same thing as 1 actually
 3. Is the dereplicating step necessary for UNITE when creating template database for the classifier to train on
+
+Dario (20.10.25)
+Points to look at:
+- !qiime cutadapt trim-single
+- !qiime feature-classifier extract-reads (which trunc len, same as for denoising?)
+- Classifier: ???
+- Bootstrap?
+fdb272672bd1670310834abb8ee012780400c96c
