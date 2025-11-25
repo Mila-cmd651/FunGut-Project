@@ -36,3 +36,31 @@ Points to look at:
 - Classifier: ???
 - Bootstrap?
 fdb272672bd1670310834abb8ee012780400c96c
+
+Mila (25.11.25)
+Inferring microbiota functions from taxonomic genes: a review, https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giab090/6505123:
+"A new database called FunFun [76] is now available. It encompasses 80 fungal ecological traits. In reality, this database is a FUNGuild database overlay with information on genetic, enzymatic, morphological, stoichiometric, life history, and physiological aspects. In addition, the authors mention that FunFun will be updated in terms of taxonomy and associated guilds, which is not necessarily the case with FUNGuild. However, although this database is promising, a lot of information is missing because it integrates literature data for the first time ever, and its improvement relies on the progress of research, as well as the contribution of scientists. This caused an impulse leading to a community of scientists proposing a new database: FungalTraits [77] links information from FUNGuild and FunFun. It is very complete, and offers different levels of life styles. Please note that this database includes species from the fungal kingdom but also fungus-like stramenopiles (e.g., the Oomycota phylum). This may be especially useful because various species are identified as major plant pathogens within Oomycota. For example, the genus Phytophthora gathers several crop pathogens that cause important losses and can represent a risk to global food security [78].
+To conclude, the minor drawbacks of FUNGuild, with rare updates or a tool oriented to ITS sequences, have been offset by the new FunFun and FungalTraits databases."
+
+----------
+
+FungalTraits vs. FUNGuild: Comparison of Ecological Functional Assignments of Leaf- and Needle-Associated Fungi Across 12 Temperate Tree Species, https://link.springer.com/article/10.1007/s00248-022-01973-2:
+"As a conclusion, FungalTraits is superior to FUNGuild in assigning a higher quantity and quality of ASVs as well as a higher frequency of significant correlations with environmental factors."
+--> so take a look at FungalTraits?
+
+----------
+
+FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles, https://link.springer.com/article/10.1007/s13225-020-00466-2:
+Present their tool. Seems that it should be used hand in hand with other tools, that it's not a golden standard (but we don't have that much time haha). I think that from what I read here, if FunganlTraits doesn't work than use FunFun (is supposed to be an update of FunGuild so probably better).
+
+----------
+Here is the FungalTraits spreadsheet: https://docs.google.com/spreadsheets/d/1cxImJWMYVTr6uIQXcTLwK1YNNzQvKJJifzzNpKCM6O0/edit?gid=33668129#gid=33668129
+However I am not sure this is going to work because I feel it's mostly about fungi that are found in "nature" microbiomes and not in the gut
+
+-------
+Challenges in capturing the mycobiome from shotgun metagenome data: lack of software and databases, https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02048-3:
+Here we have a review article that scanned tools to specifically analyse the gut microbiome.
+"We managed to implement the previous version of FunOMIC with several modifications to the code and by implementing another index database for bacterial reads filtering. The HMS also required modifications. These issues make the use of Fungi-specific tools cumbersome, if not impossible, for researchers with no or little bioinformatic background, and their algorithms/code require optimization and benchmarking." "The FunOMIC is the only tool claiming to perform a functional annotation analysis; however, it failed implementation and we did not attempt to make it operational. Therefore, it is crucial to develop robust and accurate mycobiome metagenome data analysis tools that include functional annotation"
+--> So it seems that they are a bit complicated to use
+
+--> so we could test the FungalTraits one, and I could extend this in the discussion because I read a lot about it so I'd be happy to fill this part and I thought it was quite interesting and going a bit further than our project only.
